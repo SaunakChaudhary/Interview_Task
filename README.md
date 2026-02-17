@@ -1,4 +1,4 @@
-###Login Credentials
+### Login Credentials
 
-Username : emilys
-Password : emilyspass
+- Username : emilys
+- Password : emilyspass
